@@ -24,4 +24,4 @@ https://github.com/nlpai-lab/KULLM 와 https://github.com/yizhongw/self-instruct
 | Open |	LLaMA-7b |	koVicuna |	0.460 |	1.583 |	1.726 |	1.528 |	0.409 |	2.440 |
 | Open |	Polyglot-ko-12.8b |	KULLM v2 |	0.742 |	2.083 |	2.107 |	1.794 |	0.548 |	3.036 |
 
-위 결과에 의하면, Claude 2는 `자연스러움`과 `흥미롭기`에서 GPT4보다 근소한 우위를 점하고 있지만, 종합적인 전반적임 품질에서 눈에 띄게 더 나은 결과를 보여주고 있습니다. 
+위 결과에 의하면, Claude 2는 `자연스러움`과 `흥미롭기`에서 GPT4보다 근소한 우위를 점하고 있지만, 신기하게 전반적인 품질에서 눈에 띄게 더 나은 점수를 보여주고 있습니다. 
