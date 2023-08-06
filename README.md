@@ -2,9 +2,12 @@
 많은 분들이 Claude / Claude 2가 한국어를 잘한다는 걸 아시지만, 정성적으로 측정된 사례가 없는 것 같아서, 미력하지만 직접 테스트를 해보았습니다 🤖
 https://github.com/nlpai-lab/KULLM에서 정리해주신 [Evaluation Metric](https://github.com/nlpai-lab/KULLM#evaluation)을 기반으로 진행되었습니다.
 
-[Test set](https://github.com/nlpai-lab/KULLM/blob/master/data/user_oriented_instructions_eval.jsonl)
-[Claude2 result](https://github.com/sanghaya/claude_korean_test/blob/main/claude_result.jsonl)
-[Evaluation result, scored by GPT4](https://github.com/sanghaya/claude_korean_test/blob/main/eval_result.jsonl)
+[Test set](https://github.com/nlpai-lab/KULLM/blob/master/data/user_oriented_instructions_eval.jsonl)  
+
+[Claude2 result](https://github.com/sanghaya/claude_korean_test/blob/main/claude_result.jsonl)  
+
+[Evaluation result, scored by GPT4](https://github.com/sanghaya/claude_korean_test/blob/main/eval_result.jsonl)  
+
 
 - 각각 시스템 메세지는 `generate.py`, `eval.py`에서 확인하실 수 있습니다
 - Claude는 Claude 2 (Token window: 1,000를 제외한 Default 세팅)
